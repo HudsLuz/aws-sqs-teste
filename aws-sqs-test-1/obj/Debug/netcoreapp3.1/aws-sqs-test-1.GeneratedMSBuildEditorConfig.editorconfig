@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = aws_sqs_test_1
+build_property.ProjectDir = C:\Projetos\TesteAWS\aws-sqs-test-1\aws-sqs-test-1\
