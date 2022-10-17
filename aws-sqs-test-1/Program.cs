@@ -69,6 +69,7 @@ namespace aws_sqs_test_1
                     bancoMySql.CriarLog("Ocorreu um erro ao gravar o dado!");
             }
 
+            #region Loop
             ////Loop
             //while (true)
             //{
@@ -121,6 +122,7 @@ namespace aws_sqs_test_1
             //            bancoMySql.CriarLog("Ocorreu um erro ao gravar o dado!");
             //    }
             //}
+            #endregion
         }
     }
 }
